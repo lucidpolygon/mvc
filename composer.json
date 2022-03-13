@@ -1,0 +1,17 @@
+{
+    "name": "lucidpolygon/mvc",
+    "description": "MVC Framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thaha W"
+        }
+    ],
+    "require": {
+        
+    }
+}
